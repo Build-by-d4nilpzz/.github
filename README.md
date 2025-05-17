@@ -1,1 +1,2 @@
-# .github
+ - [Terms of Service](exmpale.local)
+ - [Privacy Policy](exmpale.local)
